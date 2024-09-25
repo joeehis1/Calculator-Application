@@ -33,8 +33,8 @@ This is a simple calculator application built using react with the following fea
 
 ### Links
 
--   Github URL: [Add solution URL here](https://your-solution-url.com)
--   Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+-   [Github URL](https://github.com/joeehis1/Calculator-Application)
+-   [Live Site URL](https://simpulcalk.netlify.app/)
 
 ## My process
 
