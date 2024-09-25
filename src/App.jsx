@@ -581,7 +581,7 @@ function CalculatorInterface() {
             ? `${intermediateValue} =`
             : "";
     return (
-        <>
+        <main>
             <DisplayElements
                 paragraphString={paragraphString}
                 displayedValue={displayedValue}
@@ -594,7 +594,7 @@ function CalculatorInterface() {
                 handleFinalCalculation={handleFinalCalculation}
                 resetCalc={resetCalc}
             />
-        </>
+        </main>
     );
 }
 
